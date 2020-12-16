@@ -27,3 +27,6 @@ attention mechanism을 활용한 문장 분류 근거 시각화 모델
 - Explable AI를 위한 attentino score 기반 분류 근거 시각화 모델 개발
 
 ![image](https://user-images.githubusercontent.com/37866322/102364573-f3863e80-3ff9-11eb-8eb5-7af7f356b05a.png)
+
+## License
+- (주)인텔리콘 메타연구소
